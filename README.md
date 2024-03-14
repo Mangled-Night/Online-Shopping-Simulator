@@ -19,3 +19,8 @@ In the second iteration, you now can, and this includes selecting items, you can
 while shopping and removing items from their cart, while it would be possible to implement that, currently it is only possible to do so after you are done shopping.
 - Another new feature I added was being able to search the store for items. An algorithm I made iterates through the store and tries to find the best matching items to what you are looking for
 not every item in the world will be there but it is possible to search and see what comes close and what is there
+
+
+Python Modules needed
+- random
+- colorama 
